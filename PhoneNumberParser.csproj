@@ -12,7 +12,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Folder Include="Submission\" />
+	  <Compile Remove="Submission\**" />
+	  <EmbeddedResource Remove="Submission\**" />
+	  <None Remove="Submission\**" />
+	  <Page Remove="Submission\**" />
 	</ItemGroup>
 
 	<ItemGroup>
