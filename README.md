@@ -10,3 +10,8 @@ The phone number will be splitted into:
 2. Geographical area code
 3. Subscriber number
 4. Extension (optional)
+
+## Technologies
+
+1. [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
+2. [libphonenumber](https://www.nuget.org/packages/libphonenumber-csharp/)
