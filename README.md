@@ -13,5 +13,10 @@ The phone number will be splitted into:
 
 ## Technologies
 
-1. [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
-2. [libphonenumber](https://www.nuget.org/packages/libphonenumber-csharp/)
+* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1)
+* [libphonenumber](https://www.nuget.org/packages/libphonenumber-csharp/)
+
+## Getting Started
+
+1. Download the "PhoneNumberParser.exe" from the latest release
+2. Execute the .exe file on your local machine
