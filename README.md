@@ -7,6 +7,8 @@ Excercise for the lecture "Softwarequalität" at the DHBW
 1. Download the "PhoneNumberParser.exe" from the latest release
 2. Execute the .exe file on your local machine
 
+* The required user story can be found in the folder "Documentation"
+
 ## System requirements
 
 * OS: Windows 7 or later version
